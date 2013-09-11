@@ -3,12 +3,10 @@ Requirements
 
 * gnuplot
 
-* python 2.7.2
-
 $ brew install gnuplot
 
-$ pip install numpy
+* python 2.7.2
 
-$ pip install gnuplot-py
+Use pythonbrew to manage your python versions.
 
-
+$ script/bootstrap
