@@ -17,7 +17,7 @@ $ script/bootstrap
 
 You should install AquaTerm first, and then install gnuplot.
 
-[Download AquaTerm](http://aquaterm.sourceforge.net/)
+You can download AquaTerm from [here](http://aquaterm.sourceforge.net/)
 
 You double click a dmg file to install AquaTerm, maybe your installation
 do not create the correct symlinks in `/usr/local/lib` because of no root
