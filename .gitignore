@@ -8,3 +8,5 @@
 .bootstrap/
 .virtualenv/
 script/bootstrap.py
+
+*.png

@@ -1,5 +1,10 @@
-Requirements
-====
+## Introduction
+
+Gnuplot is a command line tool that was initially developed in order to allow you visualize
+mathematical functions and data.It can draw many types of plots in either 2D or 3D.It supports
+drawing using lines, points, vector fields, surfaces, boxes and contours.
+
+## Requirements
 
 * gnuplot
 
